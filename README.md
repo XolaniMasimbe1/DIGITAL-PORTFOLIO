@@ -72,6 +72,7 @@ Each rubric item has two parts:
 
 ### 🗂️ Evidence
 - ![Professional Networking Evidence](./a68fffc6-cba1-4331-8f9e-173b1aafd64f.png)
+- https://github.com/XolaniMasimbe1/DIGITAL-PORTFOLIO/blob/main/Machine%20Learning%20and%20the%20Importance%20of%20Machine%20Ethics..pdf
 
 ### ✍️ Reflection (STAR)
 - **Situation:** I wanted to expand my professional network in the ICT industry while completing my internship.  
@@ -118,3 +119,4 @@ Each rubric item has two parts:
 This digital portfolio documents my personal and professional growth through real experiences, reflection, and self-awareness. Each activity strengthened my readiness for the ICT industry—helping me grow from a student into a professional developer.
 
 > ⭐ _“I don’t just want a job—I want a journey where I grow, contribute, and inspire.”_
+
