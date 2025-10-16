@@ -1,116 +1,128 @@
-# DIGITAL-PORTFOLIO
-# 💼 **My Work Readiness Journey**  
-✨ *Empowered by Growth, Grit & GitHub*  
-📘 *Project Presentation 3 – PRP370S | CPUT*  
-🎓 *Final Year | ICT Application Development*  
-💻 *Full Stack Web Developer Intern @ Plums System*
+# Digital Portfolio — Work Readiness (PRP370S)
+
+Welcome to my e-portfolio for Project Presentation 3 (PRP370S) at CPUT. This repository compiles evidence and structured reflections from my Work Readiness training and WIL experience.
+
+> "The best way to predict your future is to create it." – Abraham Lincoln
 
 ---
 
-## 🌟 **Welcome to My Digital Portfolio**
-
-> _"The best way to predict your future is to create it." – Abraham Lincoln_
-
-Hello! I'm a passionate final-year student at **CPUT** currently completing my **12-month Work Integrated Learning (WIL)** as a **Full Stack Web Developer** at **Plums System**.  
-This digital portfolio reflects my **professional development**, **career planning**, and **self-discovery journey** through evidence, reflections, and personal insights.
+## Quick Links
+- Resume: [Xolani-Masimbe-FlowCV-Resume-20251002.pdf](./Xolani-Masimbe-FlowCV-Resume-20251002.pdf)
+- Contact: xmasimbe965@gmail.com | LinkedIn: https://www.linkedin.com/in/xolani-masimbe-177890234
 
 ---
 
-## 🧭 **1. Career Counselling**
+## How to Use This Portfolio
+- Each section includes two parts:
+  1) Evidence (artifacts/screenshots/documents)
+  2) Reflection using the STAR method (fill in your own words)
+- Keep reflections authentic and in your own voice to comply with academic integrity rules.
 
-### 🗂️ Evidence  
-- 📸 ![Career Development picture](https://github.com/user-attachments/assets/2af0a88e-3bbe-47af-9b14-2f48680665ad)
-
-
-### ✨ Reflection – Using STAR  
-- **S**ituation: I participated in a career alignment session to explore suitable tech paths.  
-- **T**ask: Identify a career field aligned with my interests and personality.  
-- **A**ction: Engaged in a guided session, completed reflection tools, and asked strategic questions.  
-- **R**esult: Discovered a strong fit with UI/UX design and front-end development.
-
-> 🎯 _"Career counselling was a compass that pointed me to where I belong in tech."_
+STAR = Situation, Task, Action, Result
 
 ---
 
-## 🚀 **2. Skills & Interests**
+## 1) Business Communication
 
-### 🗂️ Evidence  
-- 📄 ![Skills   Interests](https://github.com/user-attachments/assets/a9ba5f54-5a75-4187-abf4-dcff93ec65fc)
-  
-- 📊 ![image](https://github.com/user-attachments/assets/2bc685e2-3f87-46ce-af69-47858f0d0118)
- 
-- 🧠 ![image](https://github.com/user-attachments/assets/bb487435-068e-414f-b00b-867be27aa888)
+### Evidence
+- Screenshot: ![Business Communication Evidence](./2ca26551-b1c1-4b02-a2e9-e75f7bac3ae9.png)
 
-
-### ✨ Reflection – Using STAR  
-- **S**ituation: I felt unsure how to align my interests with a defined ICT path.  
-- **T**ask: Pinpoint skills and passions relevant to real-world roles.  
-- **A**ction: Took multiple skills tests and evaluated feedback from WIL projects.  
-- **R**esult: Validated that I thrive on creative problem-solving and teamwork in development.
-
-> 💡 _"Skills are seeds—when nurtured by real-world projects, they grow into strengths."_
+### Reflection (STAR)
+- Situation:
+- Task:
+- Action:
+- Result:
 
 ---
 
-## 🧬 **3. Personality Assessment**
+## 2) Interview Skills
 
-### 🗂️ Evidence  
-- 📸 ![Personality Assement](https://github.com/user-attachments/assets/3a7dc196-d512-442c-bc72-2ff562fcdb0d)
- 
-- 📄 https://drive.google.com/file/d/1WCOYF3oosDPOqwAP2nWjGKy6LFSuwV8V/view?usp=sharing
-### ✨ Reflection – Using STAR  
-- **S**ituation: I wanted to understand my collaboration style and workplace personality.  
-- **T**ask: Take a reliable personality assessment.  
-- **A**ction: Completed MBTI and DISC evaluations.  
-- **R**esult: I'm an **INFJ**—best suited for mission-driven, thoughtful tech teams.
+### Evidence
+- Screenshot: ![Interview Skills Evidence](./3e2834ef-2c03-4a0d-8f2e-4e75a9963c7e.png)
 
-> 🌱 _"Knowing who I am helps me choose where I’ll grow best."_  
+### Reflection (STAR)
+- Situation:
+- Task:
+- Action:
+- Result:
 
 ---
 
-## 📄 **4. CV Creation**
+## 3) Mock Interview
 
-### 🗂️ Evidence  
-- 📎 Xolani Masimbe CV.pdf  
-- 📸 ![CV PREVIEW](https://github.com/user-attachments/assets/ae868334-4fad-4f6d-885d-3f85c6c853ad)
+### Evidence
+- Screenshot: ![Mock Interview Evidence](./bcd041e3-17cb-4024-80d9-3cab45e94608.png)
 
-
-### ✨ Reflection – Using STAR  
-- **S**ituation: My old CV lacked clarity and visual appeal.  
-- **T**ask: Redesign and modernize it based on industry standards.  
-- **A**ction: Used Canva and GitHub to create a branded, content-rich CV.  
-- **R**esult: A document that reflects both my technical and soft skills.
-
-> 📌 _"A great CV doesn’t just tell who you are—it shows your value."_  
+### Reflection (STAR)
+- Situation:
+- Task:
+- Action:
+- Result:
 
 ---
 
-## 📤 **5. CV Submission**
+## 4) Professional Networking
 
-### 🗂️ Evidence  
-- 📧 ![Submission confirmation](https://github.com/user-attachments/assets/4bb49e22-60a5-4b94-8326-5cceccdc1171)
- 
-- 📄 Email Confirmation.pdf
+### Evidence
+- Screenshot: ![Professional Networking Evidence](./a68fffc6-cba1-4331-8f9e-173b1aafd64f.png)
 
-### ✨ Reflection – Using STAR  
-- **S**ituation: I targeted a company looking for frontend developers.  
-- **T**ask: Submit a compelling application.  
-- **A**ction: Crafted and submitted my CV + cover letter with confidence.  
-- **R**esult: Awaiting response, but proud of my polished presentation.
-
-> 📫 _"Each CV I send is a step closer to my ideal career."_  
+### Reflection (STAR)
+- Situation:
+- Task:
+- Action:
+- Result:
 
 ---
 
-## 🎓 **Final Thoughts**
+## 5) Workplace Etiquette
 
-This portfolio is more than just a task—it's the story of how I’m building my future through conscious choices, strategic growth, and authentic self-awareness.
+### Evidence
+- Screenshot: ![Workplace Etiquette Evidence](./9211ac1b-2371-4d1a-931e-274564200fbc.png)
 
-### 🙌 Let’s Connect:  
-- 🔗 www.linkedin.com/in/xolani-masimbe-177890234  
-- 💌 xmasimbe965@gmail.com  
-
+### Reflection (STAR)
+- Situation:
+- Task:
+- Action:
+- Result:
 
 ---
 
-> ⭐ _"I don’t just want a job—I want a journey where I grow, contribute, and inspire."_  
+## 6) CV Creation and Submission (Bonus Evidence)
+
+### Evidence
+- Resume (PDF): [Xolani-Masimbe-FlowCV-Resume-20251002.pdf](./Xolani-Masimbe-FlowCV-Resume-20251002.pdf)
+- Optional: Add a screenshot of email/application submission confirmation (attach or link)
+
+### Reflection (STAR)
+- Situation:
+- Task:
+- Action:
+- Result:
+
+---
+
+## Rubric Alignment Checklist (Self-Review)
+For each rubric category, ensure both Evidence and STAR Reflection are complete:
+- [ ] Business Communication — Evidence
+- [ ] Business Communication — Reflection (STAR)
+- [ ] Interview Skills — Evidence
+- [ ] Interview Skills — Reflection (STAR)
+- [ ] Mock Interview — Evidence
+- [ ] Mock Interview — Reflection (STAR)
+- [ ] Professional Networking — Evidence
+- [ ] Professional Networking — Reflection (STAR)
+- [ ] Workplace Etiquette — Evidence
+- [ ] Workplace Etiquette — Reflection (STAR)
+
+---
+
+## Submission Guide
+- Upload this repository/folder as a zipped file or publish it and submit the link per your lecturer’s instructions.
+- If submitting a link: you can upload the folder to OneDrive/Google Drive and set link to "Anyone with the link can view". Alternatively, push to GitHub and share the repository link.
+- Ensure file names remain unchanged so images display correctly in the README.
+
+---
+
+## Notes
+- All reflections should be written by me in first person to adhere to CPUT assessment rules.
+- Replace placeholders in STAR sections with concise, honest accounts of my experience and learning.
