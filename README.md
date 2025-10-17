@@ -26,7 +26,10 @@ Each rubric item has two parts:
 ## 🗣️ 1) Business Communication
 
 ### 🗂️ Evidence
-- ![Business Communication Evidence](./2ca26551-b1c1-4b02-a2e9-e75f7bac3ae9.png)
+- <img width="1526" height="765" alt="image" src="https://github.com/user-attachments/assets/4222a4e8-f5bd-406d-ba15-64673386c1cc" />
+-<img width="1339" height="772" alt="image" src="https://github.com/user-attachments/assets/5c990628-d06a-45db-919d-5a5787c1998c" />
+
+
 
 ### ✍️ Reflection (STAR)
 - **Situation:** During my internship at Plums System, I had to communicate progress updates to my supervisor and collaborate with team members from different departments.  
@@ -41,7 +44,8 @@ Each rubric item has two parts:
 ## 🤝 2) Interview Skills
 
 ### 🗂️ Evidence
-- ![Interview Skills Evidence](./3e2834ef-2c03-4a0d-8f2e-4e75a9963c7e.png)
+- <img width="1523" height="767" alt="image" src="https://github.com/user-attachments/assets/677a2ce1-707e-44a1-aa61-2bfaa9c50bc5" />
+
 
 ### ✍️ Reflection (STAR)
 - **Situation:** I participated in a workshop on effective interview techniques to prepare for post-graduation job applications.  
@@ -56,7 +60,8 @@ Each rubric item has two parts:
 ## 🎤 3) Mock Interview
 
 ### 🗂️ Evidence
-- ![Mock Interview Evidence](./bcd041e3-17cb-4024-80d9-3cab45e94608.png)
+- [![Mock Interview Evidence](./bcd041e3-17cb-4024-80d9-3cab45e94608.png)](https://github.com/wil-it2025/cv-tutorial-XolaniMasimbe1/blob/main/Xolani%20Masimbe%20Mock%20Interview.mp4)
+- 
 
 ### ✍️ Reflection (STAR)
 - **Situation:** As part of our Work Readiness programme, I took part in a mock interview with a panel of assessors acting as potential employers.  
@@ -71,7 +76,8 @@ Each rubric item has two parts:
 ## 🌐 4) Professional Networking
 
 ### 🗂️ Evidence
-- ![Professional Networking Evidence](./a68fffc6-cba1-4331-8f9e-173b1aafd64f.png)
+- <img width="1527" height="764" alt="image" src="https://github.com/user-attachments/assets/8bbbfd13-8fd4-46f3-9e0f-f6af78cd05a5" />
+
 - https://github.com/XolaniMasimbe1/DIGITAL-PORTFOLIO/blob/main/Machine%20Learning%20and%20the%20Importance%20of%20Machine%20Ethics..pdf
 
 ### ✍️ Reflection (STAR)
@@ -87,7 +93,13 @@ Each rubric item has two parts:
 ## 🧭 5) Workplace Etiquette
 
 ### 🗂️ Evidence
-- ![Workplace Etiquette Evidence](./9211ac1b-2371-4d1a-931e-274564200fbc.png)
+
+-<img width="1526" height="764" alt="image" src="https://github.com/user-attachments/assets/7285a104-9342-414e-9368-c0d8c96584e2" />
+
+
+- <img width="1056" height="768" alt="image" src="https://github.com/user-attachments/assets/70608829-b9f5-4d4e-ab68-1be3ba4a6e1a" />
+
+
 
 ### ✍️ Reflection (STAR)
 - **Situation:** When I joined Plums System, I had to adapt to professional workplace standards including punctuality, dress code, and collaboration norms.  
@@ -119,4 +131,5 @@ Each rubric item has two parts:
 This digital portfolio documents my personal and professional growth through real experiences, reflection, and self-awareness. Each activity strengthened my readiness for the ICT industry—helping me grow from a student into a professional developer.
 
 > ⭐ _“I don’t just want a job—I want a journey where I grow, contribute, and inspire.”_
+
 
