@@ -78,6 +78,9 @@ Each rubric item has two parts:
 ### 🗂️ Evidence
 - <img width="1527" height="764" alt="image" src="https://github.com/user-attachments/assets/8bbbfd13-8fd4-46f3-9e0f-f6af78cd05a5" />
 
+<img width="1303" height="649" alt="image" src="https://github.com/user-attachments/assets/4e4b1727-8a57-44ee-9cfa-349658935752" />
+
+
 - https://github.com/XolaniMasimbe1/DIGITAL-PORTFOLIO/blob/main/Machine%20Learning%20and%20the%20Importance%20of%20Machine%20Ethics..pdf
 
 ### ✍️ Reflection (STAR)
@@ -131,5 +134,6 @@ Each rubric item has two parts:
 This digital portfolio documents my personal and professional growth through real experiences, reflection, and self-awareness. Each activity strengthened my readiness for the ICT industry—helping me grow from a student into a professional developer.
 
 > ⭐ _“I don’t just want a job—I want a journey where I grow, contribute, and inspire.”_
+
 
 
